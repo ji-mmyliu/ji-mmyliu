@@ -4,6 +4,8 @@
 <h3 align="left">A Little Bit About Me</h3>
 <h4 align="left">I'm a passionate software and polar bear enthusiast 🐻‍❄️</h4>
 
+- 🔭 I’m currently working on [UW Blueprint Extend-A-Family](https://github.com/uwblueprint/extend-a-family)
+
 - 🌱 I’m currently learning **Scala and Assembly**
 
 - 👨‍💻 All of my projects are available at [https://jimmyliu.dev/](https://jimmyliu.dev/)
