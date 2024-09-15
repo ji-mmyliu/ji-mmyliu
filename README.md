@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Jimmy! 👋</h1>
-<h4 align="left">Thanks for stopping by, hope you have an awesome day!</h4>
+Thanks for stopping by, hope you have an awesome day!
 
 <h3 align="left">A Little Bit About Me</h3>
-<h4 align="left">I'm a passionate software and polar bear enthusiast 🐻‍❄️</h4>
+I'm a passionate software and polar bear enthusiast 🐻‍❄️
 
 - 🔭 I’m currently working on [UW Blueprint Extend-A-Family](https://github.com/uwblueprint/extend-a-family)
 
